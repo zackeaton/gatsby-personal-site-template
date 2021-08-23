@@ -4,9 +4,9 @@ See me [live!](zack-eaton-gatsby-portfolio.netlify.app/)
 
 ### Badges of Honor
 
-[![Website](https://img.shields.io/website-up-down-green-red/http/amruthpillai.com.svg)](https://zackeaton.dev/)
+[![Website](https://img.shields.io/website-up-down-green-red/http/zackeaton.dev.svg)](https://zackeaton.dev/)
 [![Uptime Robot](https://img.shields.io/uptimerobot/ratio/m781987043-24c5463b2c0e80a630682bd0.svg?style=flat)](https://zackeaton.dev/)
-[![Last Commit](https://img.shields.io/github/last-commit/amruthpillai/resumeontheweb-angular.svg?style=flat)](https://zackeaton.dev/)
+[![Last Commit](https://img.shields.io/github/last-commit/zackeaton/gatsby-personal-site-template.svg?style=flat)](https://zackeaton.dev/)
 ![Code Size](https://img.shields.io/github/languages/code-size/zackeaton/gatsby-personal-site-template)
 ![MIT License](https://img.shields.io/github/license/zackeaton/gatsby-personal-site-template)
 
