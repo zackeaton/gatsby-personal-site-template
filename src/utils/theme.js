@@ -1,5 +1,6 @@
 import React, { Component } from "react"
 import { Howl } from "howler"
+import { TRUE } from "node-sass"
 
 const vaderAudio = new Howl({
   src: ["../../sounds/Darth-Vader.mp3"],
@@ -13,8 +14,8 @@ const r2d2Audio = new Howl({
 })
 
 const defaultState = {
-  dark: false,
-  toString: () => `light`,
+  dark: true,
+  toString: () => `dark`,
   toggleDark: () => {},
 }
 
