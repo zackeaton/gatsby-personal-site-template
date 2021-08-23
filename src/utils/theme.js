@@ -1,6 +1,5 @@
 import React, { Component } from "react"
 import { Howl } from "howler"
-import { TRUE } from "node-sass"
 
 const vaderAudio = new Howl({
   src: ["../../sounds/Darth-Vader.mp3"],
