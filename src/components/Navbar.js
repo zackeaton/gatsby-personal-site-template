@@ -13,8 +13,8 @@ export default () => {
       <Navbar.Brand className="pl-5 ml-5" as={Link} to="/">
       {/* New iconography */}
       <Image
-          width="75"
-          height="75"
+          width="50"
+          height="50"
           fluid
           src={dark ? `../../icons/z-logo-dark.png` : `../../icons/z-logo-light.png`}
           alt={dark ? "The Dark Side" : "The Ashla"}
