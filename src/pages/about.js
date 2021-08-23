@@ -34,8 +34,8 @@ export default ({ data }) => {
       <Container>
         <Image
           rounded
-          width="140"
-          height="140"
+          width="200"
+          height="200"
           src={`../../icons/memoji-${toString()}.png`}
           alt={author}
         />
@@ -80,7 +80,7 @@ export default ({ data }) => {
                   like what you <Link to="/resume">see</Link>, let's get
                   in&nbsp;
                   <a
-                    href="mailto:red.five@rebellion.com"
+                    href="mailto:zackeaton@gmail.com"
                     target="_blank"
                     rel="noopener noreferrer"
                   >

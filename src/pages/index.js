@@ -22,7 +22,7 @@ export default ({ data }) => {
         />
         {unemployed && (
           <p className="mt-2">
-            <b> Hey there, my name is ...</b>
+            <b>Hey! I am looking for new opportunities :)</b>
           </p>
         )}
         <Container className="py-0 my-0">
@@ -57,7 +57,6 @@ export default ({ data }) => {
               title="LinkedIn"
             />
           </a>
-        
           <a
             href="https://instagram.com/zackaryeaton"
             target="_blank"
@@ -69,7 +68,6 @@ export default ({ data }) => {
               title="Instagram"
             />
           </a>
-
         <a
             href="https://www.facebook.com/eatonstl"
             target="_blank"
@@ -81,7 +79,6 @@ export default ({ data }) => {
               title="Facebook"
             />
           </a>
-
           <a
             href="https://www.twitter.com/zack_eaton"
             target="_blank"
@@ -93,7 +90,6 @@ export default ({ data }) => {
               title="Twitter"
             />
           </a>
-
           <a
             href="https://dev.to/zackeaton"
             target="_blank"
@@ -105,7 +101,6 @@ export default ({ data }) => {
               title="Dev"
             />
           </a>
-          
           <a
             href="https://www.github.com/zackeaton"
             target="_blank"
@@ -117,9 +112,6 @@ export default ({ data }) => {
               title="Github"
             />
           </a>
-
-        
-
           <a
             href="mailto:zackeaton@gmail.com"
             target="_blank"
@@ -131,7 +123,6 @@ export default ({ data }) => {
               title="e-mail"
             />
           </a>
-
           <a href="../../resume_zack_eaton.pdf" target="_blank" download>
             <FontAwesomeIcon
               icon={["fas", "file-alt"]}
@@ -139,7 +130,6 @@ export default ({ data }) => {
               title="Resume"
             />
           </a>
-
         </div>
       </Container>
     </PageLayout>

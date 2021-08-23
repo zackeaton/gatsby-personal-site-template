@@ -16,7 +16,7 @@ module.exports = {
     keywords: [`Zack`, `Eaton`, `Personal`, `Blog`, `Resume`, `Projects`, `Work`],
     siteUrl:
       process.env.URL || process.env.DEPLOY_URL || `http://localhost:8000`,
-    unemployed: true,
+    unemployed: false,
     designations: [
       `Coding Monkey`,
       `Spice Lord`,
