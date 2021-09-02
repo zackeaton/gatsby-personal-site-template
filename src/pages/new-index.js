@@ -53,20 +53,8 @@ export default ({ data }) => {
           </p>        
         </Container>
 
-        {/* <Container>
-        <h1
-            style={{
-              fontSize: "1.5rem",
-              color: "black",
-            }}
-          >
-            <span className="hello">hello</span>
-            <span className="at">@</span>
-            <span className="email-domain">zackeaton.dev</span>
-          </h1>
-        </Container> */}
-
         <hr className="my-3 w-25" />
+
         <div className="d-md-inline-flex icons-container">
         <a
             href="https://linkedin.com/in/zack-eaton"
@@ -171,145 +159,136 @@ export default ({ data }) => {
                   <FontAwesomeIcon
               icon={["fab", "shopify"]}
               title="Shopify"
-            />
-                </h6>
+              />
+              </h6>
                 <h6
                   className=" greeting mt-2 leading-none"
                   style={{ fontSize: "0.65rem" }}
                 >
                 (Shopify/WooCommerce/WordPress)
                 </h6>
-                </div>
-                
-                <div class="p-3">
+          </div>
+          <div class="p-3">
               <h6 className="greeting">
                   Influencer Marketing &nbsp;
                   <FontAwesomeIcon
               icon={["fab", "tiktok"]}
               title="TikTok"
-            />
-                </h6>
+              />
+              </h6>
                 <h6
                   className=" greeting mt-2 leading-none"
                   style={{ fontSize: "0.65rem" }}
                 >
                 (Social Media, Affiliatly, Management)
                 </h6>
-                </div>
-                
-                <div class="p-3">
+          </div>
+          <div class="p-3">
               <h6 className="greeting">
                   Customer Relationship Management &nbsp;
                   <FontAwesomeIcon
               icon={["fab", "hubspot"]}
               title="HubSpot"
-            />
-                </h6>
+              />
+              </h6>
                 <h6
                   className=" greeting mt-2 leading-none"
                   style={{ fontSize: "0.65rem" }}
                 >
                 (HubSpot/Asana/ZenDesk)
                 </h6>
-                </div>
-                
-                <div class="p-3">
+          </div>
+          <div class="p-3">
               <h6 className="greeting">
               Analytics & Reporting &nbsp;
               <FontAwesomeIcon
               icon={["fas", "chart-pie"]}
               title="chart-pie"
-            />
-                </h6>
+              />
+              </h6>
                 <h6
                   className=" greeting mt-2 leading-none"
                   style={{ fontSize: "0.65rem" }}
                 >
                 (Power BI/Google Analytics/Excel)
                 </h6>
-                </div>
-                
-                <div class="p-3">
+          </div>
+          <div class="p-3">
               <h6 className="greeting">
               Web Design & Development &nbsp;
               <FontAwesomeIcon
               icon={["fab", "wordpress"]}
               title="Wordpress"
-            />
-                </h6>
+              />
+              </h6>
                 <h6
                   className=" greeting mt-2 leading-none"
                   style={{ fontSize: "0.65rem" }}
                 >
                 (HTML/CSS/Javascript)
                 </h6>
-                </div>
-                
-                <div class="p-3">
+          </div>
+          <div class="p-3">
               <h6 className="greeting">
               Frontend JS Frameworks &nbsp;
               <FontAwesomeIcon
               icon={["fab", "angular"]}
               title="Angular"
-            />
-                </h6>
+              />
+              </h6>
                 <h6
                   className=" greeting mt-2 leading-none"
                   style={{ fontSize: "0.65rem" }}
                 >
                 (React/Vue.js/Gatsby/Angular)
                 </h6>
-                </div>
-                
-                <div class="p-3">
+          </div>
+          <div class="p-3">
               <h6 className="greeting">
               Backend JS Frameworks &nbsp;
               <FontAwesomeIcon
               icon={["fab", "js"]}
               title="JS"
-            />
-                </h6>
+              />
+              </h6>
                 <h6
                   className=" greeting mt-2 leading-none"
                   style={{ fontSize: "0.65rem" }}
                 >
                 (Node.js/Express.js/Mongoose)
                 </h6>
-                </div>
-                
-                <div class="p-3">
+          </div>                
+          <div class="p-3">
               <h6 className="greeting">
                 Database Management Systems &nbsp;
                 <FontAwesomeIcon
               icon={["fas", "database"]}
               title="Database"
-            />
-                </h6>
-                <h6
+                />
+              </h6>
+                  <h6
                   className=" greeting mt-2 leading-none"
                   style={{ fontSize: "0.65rem" }}
-                >
+                  >
                 (MySQL/Firebase/MongoDB)
-                </h6>
-                </div>
-
-                <div class="p-3">
+                  </h6>
+          </div>
+          <div class="p-3">
               <h6 className="greeting">
                   Social Media &nbsp;
                   <FontAwesomeIcon
               icon={["fab", "instagram"]}
               title="Instagram"
-            />
-                </h6>
+                  />
+              </h6>
                 <h6
                   className=" greeting mt-2 leading-none"
                   style={{ fontSize: "0.65rem" }}
                 >
                 (Content Management, Paid Ads, Analytics)
                 </h6>
-                </div>
-
-              <div class="p-3">
+          </div>
+          <div class="p-3">
                 <h6 className="greeting">
                   Search Engine Optimization &nbsp;
                   <FontAwesomeIcon
@@ -317,15 +296,14 @@ export default ({ data }) => {
                     title="Google"
                   />
                 </h6>
-                <h6
+                  <h6
                   className=" greeting mt-2 leading-none"
                   style={{ fontSize: "0.65rem" }}
-                >
+                  >
                 (PageRank, SEMRush, Moz)
-                </h6>
-              </div>
-
-              <div class="p-3">
+                  </h6>
+          </div>
+          <div class="p-3">
                 <h6 className="greeting">
                   Photography &nbsp;
                   <FontAwesomeIcon
@@ -333,15 +311,14 @@ export default ({ data }) => {
                     title="Photography"
                   />
                 </h6>
-                <h6
+                  <h6
                   className=" greeting mt-2 leading-none"
                   style={{ fontSize: "0.65rem" }}
-                >
+                  >
                 (Adobe Photoshop/Lightroom)
               </h6>
-              </div>
-              
-              <div class="p-3">
+          </div>              
+          <div class="p-3">
                 <h6 className="greeting">
                   Videoography &nbsp;
                   <FontAwesomeIcon
@@ -349,13 +326,13 @@ export default ({ data }) => {
                     title="Videography"
                   />
                 </h6>
-                <h6
+                  <h6
                   className=" greeting mt-2 leading-none"
                   style={{ fontSize: "0.65rem" }}
-                >
+                  >
                 (Adobe Photoshop/Lightroom)
-                </h6>
-                </div>
+                  </h6>
+          </div>
         </Container>
       </Container>
     </PageLayout>
